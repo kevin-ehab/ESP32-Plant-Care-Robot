@@ -3,6 +3,10 @@
 This project is a **Wi-Fi controlled rover + smart plant monitoring system** powered by an ESP32.  
 It combines environmental sensing, automatic watering, OLED animations, and a web-based control station.
 
+<p align= "center">
+  <img width="432" height="559" alt="snip" src="IMG20250930220255.jpg" />
+</p>
+
 ---
 
 ## ✨ Features
