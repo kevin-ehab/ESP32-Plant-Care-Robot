@@ -34,6 +34,7 @@ It combines environmental sensing, automatic watering, OLED animations, and a we
     
 - 👩‍💻 **Programming Language**
   - It was programmed in Micro-Python
+  - ![Badge](https://img.shields.io/badge/Python-100.0%25-darkblue)
     
 ---
 
