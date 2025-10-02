@@ -21,11 +21,14 @@ It combines environmental sensing, automatic watering, OLED animations, and a we
   - **Soil moisture sensor** with automatic watering via servo
   - **DHT11 sensor** for temperature 🌡 and humidity 💦
   - **LDR light sensor** for sunlight detection ☀️
-  - OLED screen animation of a growing plant 🌱
+  - **OLED screen** for IP display and animations of a growing plant 🌱
 
 - 💧 **Automatic Watering**
   - Waters the plant if soil moisture drops below 30%
   - Can be toggled on/off from the web interface
+
+- ☀️ **Searching for places with sunlight**
+  - Moves in random places while also avoiding obstacles untill it finds sunlight for healthy plant growth 🌱
 
 - 📱 **Web Dashboard**
   - Live plant information (soil moisture, temperature, humidity, light level)
@@ -77,7 +80,7 @@ It combines environmental sensing, automatic watering, OLED animations, and a we
 
 ---
 
-🧠 How It Works
+## 🧠 How It Works
 
 - Sensors gather plant/environment data.
 
