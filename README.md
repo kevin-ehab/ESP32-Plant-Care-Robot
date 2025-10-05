@@ -4,7 +4,7 @@ This project is a **Wi-Fi controlled rover + smart plant monitoring system** pow
 It combines environmental sensing, automatic watering, OLED animations, and a web-based control station.
 
 <p align= "center">
-  <img width="432" height="559" alt="snip" src="IMG20250930220255.jpg" />
+  <img width="432" height="559" alt="snip" src="IMG20251005224754.jpg" />
 </p>
 
 ---
